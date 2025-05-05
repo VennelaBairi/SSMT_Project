@@ -8,3 +8,4 @@ This repo consists of data processing, baseline MT, punctuation feature extracti
 4) data: FLEURS dataset (english - telugu parallel)
 
 The trained E2E MT model weights are available here: https://drive.google.com/drive/folders/1BChW7-TLEzTKtWsh154SPyWhTHG9qRbo?usp=sharing
+All the translations are stored in the csv files in this folder: https://drive.google.com/drive/folders/1yzUXDwxOxNJxL7kfe_8htXhtQcs0UP71?usp=sharing
